@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-12-28 05:29:26 +0000",
+      "minecraft:meadow": "2024-12-28 05:30:42 +0000",
+      "minecraft:savanna": "2024-12-28 05:28:34 +0000",
+      "minecraft:plains": "2024-12-28 05:28:51 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
