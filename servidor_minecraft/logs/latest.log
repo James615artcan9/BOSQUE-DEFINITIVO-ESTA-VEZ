@@ -1,53 +1,53 @@
-[06:17:52] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.16.3
-[06:17:52] [main/INFO]: Loading 4 mods:
+[06:20:36] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.16.3
+[06:20:36] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 17
 	- minecraft 1.19.2
-[06:17:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/BOSQUE-DEFINITIVO-ESTA-VEZ/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:17:57] [main/INFO]: Building unoptimized datafixer
-[06:17:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:18:01] [main/INFO]: Loaded 7 recipes
-[06:18:02] [main/INFO]: Loaded 1179 advancements
-[06:18:03] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[06:18:03] [Server thread/INFO]: Loading properties
-[06:18:03] [Server thread/INFO]: Default game type: SURVIVAL
-[06:18:03] [Server thread/INFO]: Generating keypair
-[06:18:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:18:03] [Server thread/INFO]: Using epoll channel type
-[06:18:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:18:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:18:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:18:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:18:04] [Server thread/INFO]: Preparing level "world"
-[06:18:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:18:24] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[06:18:24] [Server thread/INFO]: Time elapsed: 8695 ms
-[06:18:24] [Server thread/INFO]: Done (20.659s)! For help, type "help"
-[06:19:11] [Server thread/INFO]: Stopping the server
-[06:19:11] [Server thread/INFO]: Stopping server
-[06:19:11] [Server thread/INFO]: Saving players
-[06:19:11] [Server thread/INFO]: Saving worlds
-[06:19:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:19:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:19:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:20:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/BOSQUE-DEFINITIVO-ESTA-VEZ/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:20:40] [main/INFO]: Building unoptimized datafixer
+[06:20:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:20:45] [main/INFO]: Loaded 7 recipes
+[06:20:45] [main/INFO]: Loaded 1179 advancements
+[06:20:47] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[06:20:47] [Server thread/INFO]: Loading properties
+[06:20:47] [Server thread/INFO]: Default game type: SURVIVAL
+[06:20:47] [Server thread/INFO]: Generating keypair
+[06:20:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:20:47] [Server thread/INFO]: Using epoll channel type
+[06:20:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:20:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:20:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:20:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:20:47] [Server thread/INFO]: Preparing level "world"
+[06:20:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:21:06] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[06:21:07] [Server thread/INFO]: Time elapsed: 8736 ms
+[06:21:07] [Server thread/INFO]: Done (19.702s)! For help, type "help"
+[06:21:23] [Server thread/INFO]: Stopping the server
+[06:21:23] [Server thread/INFO]: Stopping server
+[06:21:23] [Server thread/INFO]: Saving players
+[06:21:23] [Server thread/INFO]: Saving worlds
+[06:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:21:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
